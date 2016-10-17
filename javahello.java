@@ -1,6 +1,6 @@
 package hello;
 import java.util.Scanner;
-//修改1.0
+//修改1.0 b2
 public class javahello 
 {
 	//判断字符串类型
