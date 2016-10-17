@@ -1,6 +1,6 @@
 package hello;
 import java.util.Scanner;
-
+//ĞŞ¸Ä1.0
 public class javahello 
 {
 	//ÅĞ¶Ï×Ö·û´®ÀàĞÍ
